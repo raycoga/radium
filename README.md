@@ -6,6 +6,9 @@
 ![gzipped size][size_img]
 [![Maintenance Status][maintenance-image]](#maintenance-status)
 
+
+Esta dependencia te permite integrar los style inline de react en conjunto con los pseudo selectores de :hover, :focus and :active
+
 # Radium
 
 ```sh
